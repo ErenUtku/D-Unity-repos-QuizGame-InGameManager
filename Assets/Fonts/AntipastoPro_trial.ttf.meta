@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c0c456c02eccdb445a673e3974f1ab04
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Antipasto Pro
+  fontNames:
+  - Antipasto Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 901660fee0fdbe14a83364de11efb19b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
